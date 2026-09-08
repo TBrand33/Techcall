@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import NewCallScreen from './src/screens/NewCallScreen';
 import CallListScreen from './src/screens/CallListScreen';
-import CallDetailScreen from './src/screens/CallDetails';
+import CallDetailScreen from './src/screens/CallDetailsScreen';
 
 const Stack = createNativeStackNavigator();
  
